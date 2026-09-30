@@ -51,6 +51,8 @@ and no messages for the other files.
 
 The full write-up, including a third issue with Adobe's Reader extensions (`/UR3`) and notes on testing with PDFKit: [Fine in Chrome, broken in Preview: two PDFKit gotchas for anyone who writes PDFs](https://wangyan.hashnode.dev/fine-in-chrome-broken-in-preview-two-pdfkit-gotchas-for-anyone-who-writes-pdfs).
 
+In Japanese (日本語版), on Qiita: [Chromeでは正常なのにMacのプレビューで壊れるPDF：PDFKitの落とし穴2つ（増分更新とフォーム）](https://qiita.com/yanwang/items/359525e11335b0ff15b7).
+
 ## License
 
 MIT
