@@ -49,7 +49,7 @@ and no messages for the other files.
 
 ## Write-up
 
-The full write-up, including a third issue with Adobe's Reader extensions (`/UR3`) and notes on testing with PDFKit: *link to be added*.
+The full write-up, including a third issue with Adobe's Reader extensions (`/UR3`) and notes on testing with PDFKit: [Fine in Chrome, broken in Preview: two PDFKit gotchas for anyone who writes PDFs](https://wangyan.hashnode.dev/fine-in-chrome-broken-in-preview-two-pdfkit-gotchas-for-anyone-who-writes-pdfs).
 
 ## License
 
